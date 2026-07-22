@@ -3,6 +3,13 @@ name = "rs-cpuinfo4wasm"
 version = "0.1.0"
 edition = "2024"
 
+description = "CPU info functions for wasm"
+license = "Apache-2.0"
+repository = "https://github.com/takanoriyanagitani/rs-cpuinfo4wasm"
+homepage = "https://github.com/takanoriyanagitani/rs-cpuinfo4wasm"
+documentation = "https://docs.rs/rs-cpuinfo4wasm/latest"
+keywords = ["wasm", "sysinfo", "cpu", "imports"]
+
 exclude = [
 ]
 
